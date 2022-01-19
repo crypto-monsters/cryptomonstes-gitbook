@@ -1,2 +1,2 @@
-# cryptomonstes-gitbook
+# CryptoMonsters
 GitBook repo
